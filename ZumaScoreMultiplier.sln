@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZumaHook", "ZumaHook\ZumaHook.vcproj", "{9C334EC6-2CC6-464F-8C4A-193B57097632}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZumaTest", "ZumaTest\ZumaTest.vcproj", "{060353B1-0838-45E9-8E0E-B1CD0CD94FE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C334EC6-2CC6-464F-8C4A-193B57097632}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9C334EC6-2CC6-464F-8C4A-193B57097632}.Debug|Win32.Build.0 = Debug|Win32
+		{9C334EC6-2CC6-464F-8C4A-193B57097632}.Release|Win32.ActiveCfg = Release|Win32
+		{9C334EC6-2CC6-464F-8C4A-193B57097632}.Release|Win32.Build.0 = Release|Win32
+		{060353B1-0838-45E9-8E0E-B1CD0CD94FE3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{060353B1-0838-45E9-8E0E-B1CD0CD94FE3}.Debug|Win32.Build.0 = Debug|Win32
+		{060353B1-0838-45E9-8E0E-B1CD0CD94FE3}.Release|Win32.ActiveCfg = Release|Win32
+		{060353B1-0838-45E9-8E0E-B1CD0CD94FE3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
